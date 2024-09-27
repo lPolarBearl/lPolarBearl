@@ -3,7 +3,7 @@ Hi, I'm Polar Bear.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lPolarBearl)](https://github.com/ryo-ma/github-profile-trophy)
 
-#Languages
+# Languages
 
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Yellow-headed_albino_reticulated_python.jpg/128px-Yellow-headed_albino_reticulated_python.jpg" alt="python" width="40" height="40"/> </a>
 <p align="left"> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="lua" width="40" height="40"/> </a>
